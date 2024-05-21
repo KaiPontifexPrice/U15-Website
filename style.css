@@ -1,0 +1,86 @@
+
+
+#Home {
+    
+    width: 50%;
+    height: 500px;
+    margin-left: 27.5%;
+    margin-top: 4%;
+    border: 6px solid rgb(0, 0, 0);
+    border-radius: 75px;
+    background: rgba(32, 32, 32, 0.5);
+    padding: 10%;
+    text-align: left; 
+
+}
+
+
+
+
+#About_the_Company {
+    width: 70%;
+    margin-left: 20%;
+    margin-top: 3%;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    background: rgba(32, 32, 32, 0.5);
+    padding: 1%;
+    text-align: center;
+    
+}
+
+@media (max-width: 1300px) 
+{
+}
+
+#Meet_the_Team {
+        width: 67%;
+        margin-left: 20%;
+        margin-top: 5%;
+        border: 3px solid rgb(255, 255, 255);
+        border-radius: 40px;
+        background: rgba(32, 32, 32, 0.5);
+        padding: 7%;
+        text-align: center;
+
+}
+
+#Job_Specification {
+    width: 65%;
+    margin-left: 20%;
+    margin-top: 5%;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 40px;
+    background: rgba(32, 32, 32, 0.5);
+    padding: 5%;
+    text-align: center;
+
+}
+.a {
+    margin-top: -10vh;
+}
+#Website_Development_Courses {
+    width: 65%;
+    margin-left: 20%;
+    margin-top: 5%;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 40px;
+    background: rgba(32, 32, 32, 0.5);
+    padding: 5%;
+    text-align: center;
+
+
+}
+
+#Contact_Us {
+    width: 65%;
+    margin-left: 20%;
+    margin-top: 5%;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 40px;
+    background: rgba(32, 32, 32, 0.5);
+    padding: 5%;
+    text-align: center;
+
+
+}
